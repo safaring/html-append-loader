@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "html append loader for webpack",
   "main": "index.js",
+  "repository": "safaring/html-append-loader",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
