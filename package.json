@@ -1,6 +1,6 @@
 {
   "name": "html-append-loader",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "html append loader for webpack",
   "main": "index.js",
   "repository": "safaring/html-append-loader",

@@ -22,7 +22,7 @@ var webpackConfig = {
       loaders: [
         {
           test: /\.html$/,
-          loader: 'html?position=head&content='+script
+          loader: 'html-append?position=head&content='+script
         },
       ]
   }
